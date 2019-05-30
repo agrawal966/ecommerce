@@ -1,0 +1,21 @@
+#,Title,URL,"Total Word Count","Keyword Appears","Keyword Density","Is the exact keyword in the URL?","Is the exact keyword in the meta title","Is the exact keyword in the meta description","What H1 tags are present on the page","How many images are present on the page","How many of the images have an alt tag with the keyword present","Image File Names"
+1,"Twitter. It's what's happening.",https://twitter.com/?lang=en,240,0,0,YES,YES,NO,0,1,0,0
+2,"Twitter Search",https://twitter.com/search-home,200,0,0,YES,YES,YES,0,1,0,0
+3,"About Twitter",https://about.twitter.com/en_us.html,506,18,4,YES,YES,YES,0,1,0,0
+4,"Sign in - Twitter",https://ads.twitter.com/,285,8,3,YES,YES,NO,0,1,0,0
+5,"  Twitter on the App Store - iTunes - Apple",https://itunes.apple.com/us/app/twitter/id333903271?mt=8,21302,179,1,YES,YES,YES,0,1,0,0
+6,"Twitter - Wikipedia",https://en.wikipedia.org/wiki/Twitter,23756,940,4,YES,YES,NO,0,1,2,0
+7,"Twitter - Home | Facebook",https://www.facebook.com/TwitterInc/,560,0,0,NO,YES,NO,0,1,0,0
+8,"Do more with Twitter - IFTTT",https://ifttt.com/twitter,463,3,1,YES,YES,YES,0,1,26,0
+9,"Twitter, Inc. - Home",https://investor.twitterinc.com/home/default.aspx,2491,5,0,YES,YES,NO,0,1,0,0
+10,"Twitter on the Forbes Top 100 Digital Companies List",https://www.forbes.com/companies/twitter/,11719,17,0,YES,YES,YES,0,1,0,0
+11,"Twitter Should Kill the Retweet - The Atlantic",https://www.theatlantic.com/technology/archive/2018/10/twitter-should-kill-retweet/574321/,7496,48,1,YES,YES,NO,0,1,0,0
+12,"Twitter Abuse Toward Women Is Rampant, Amnesty Report Says - Wired",https://www.wired.com/story/amnesty-report-twitter-abuse-women/,23448,113,0,YES,YES,YES,0,1,0,1
+13,"Twitter's Dorsey Avoids Taking Sides in Partisan House Hearing - The ...",https://www.nytimes.com/2018/09/05/technology/facebook-twitter-congress.html,295,1,0,YES,YES,NO,0,1,0,0
+14,"Get Twitter - Microsoft Store",https://www.microsoft.com/en-us/p/twitter/9wzdncrfj140,6992,4,0,YES,YES,YES,0,1,1,1
+15,"GitHub - sferik/twitter: A Ruby interface to the Twitter API.",https://github.com/sferik/twitter,1381,37,3,YES,YES,YES,0,1,0,0
+16,"Twitter, Inc. · GitHub",https://github.com/twitter,802,27,3,YES,YES,YES,0,1,1,0
+17,"Twitter | WordPress.org",https://wordpress.org/plugins/twitter/,2522,106,4,YES,YES,NO,0,1,0,0
+18,"Investor Relations | Twitter, Inc.",https://investor.twitterinc.com/investor-relations,2491,5,0,YES,YES,NO,0,1,0,0
+19,"twitter | Font Awesome",https://fontawesome.com/icons/twitter,1876,3,0,NO,YES,NO,0,1,0,0
+20,"• Twitter: number of active users 2010-2018 | Statista",https://www.statista.com/statistics/282087/number-of-monthly-active-twitter-users/,6411,188,3,YES,YES,YES,0,1,7,1

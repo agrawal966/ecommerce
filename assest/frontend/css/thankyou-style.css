@@ -1,0 +1,140 @@
+.thank-page-wrap{
+	color: #222;
+}
+.thank-page-section {
+	max-width: 700px;
+	margin: auto;
+	background-color: #fff;
+	padding:50px;
+	text-align: center;
+	box-shadow:0px 0px 4px 1px #ccc;
+}
+.thank-page-section .thank-page-block-up {
+    /*border-bottom: 2px solid #f1f1f1;*/
+    margin: 0 -50px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.thank-page-section .thank-page-heading{
+	font-size: 24px;
+    padding: 20px 0px 20px 0;
+    width: 354px;
+    margin: auto;	
+    border-bottom: 2px solid #f1f1f1;
+}
+.thank-page-section .thank-page-img {
+    width: 65px;
+    margin: auto;
+}
+.thank-page-section .thank-page-img img {
+    max-width: 100%;
+    width: 100%;
+}
+.thank-page-section .purchase-img {
+	width: 100px;
+    height: 100px;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    border: 2px solid #f1f1f1;
+    padding: 4px;
+    position: absolute;
+    background: #fff;
+}
+.thank-page-section .purchase-img img{width: 100%;}
+.thank-page-section .purchase-block{
+	padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f1f1f1;
+}
+.thank-page-section .purchase-tile{
+	min-height: 110px;
+	margin-left: 115px;
+	text-align: left;
+}
+
+.thank-page-section .product-amount-name{
+	text-align: left;
+}
+.thank-page-section .purchase-tile .value{
+    font-weight: 600;
+    color: #222;
+    font-size: 15px;
+    padding-left: 15px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-family: Roboto;
+}
+.thank-page-section .product-info{
+	display: block;
+    font-weight: 600;
+    color: #888;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.thank-page-section .product-info span{
+    color: #323232;
+}
+.thank-page-section .purchase-tile .product-name{
+    text-align: left;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 6px;
+    padding-right: 90px;
+    position: relative;
+}
+.thank-page-section .product-amount-sub-tile{
+	padding: 5px;
+    color: #222;
+    font-weight: 600;
+    font-size: 16px;
+}
+.thank-page-section .product-amount-sub-tile .value{
+    font-family: Roboto;
+    color: #666;
+    font-weight: 500;
+}
+.thank-page-section .product-total-tile{
+    border-top: 2px solid #222;
+    font-weight: 700;
+}
+.thank-page-section .product-total-tile .value{
+    color: #222;
+    font-weight: 700;
+}
+
+.thank-page-section .user-sent-info .user-sent-info-heading{
+	color: #999;
+}
+.thank-page-section .user-sent-info{
+    padding: 30px 0px;
+    margin: 30px -50px -50px;
+    background-color: #f1f1f1;
+}
+.btn-contishop {
+    margin: 15px 0 0px;
+}
+.btn-contishop .btn-effect{
+    background: #999;
+}
+.thank-page-wrap img{
+	height: 60px;
+}
+.amount-block{
+	display: block;
+	font-size: 30px;
+	color:#4b92fc;
+	font-weight: bold;
+}
+.thank-page-wrap p{
+	font-size: 18px;
+}
+.thank-page-wrap .contact-us-button{
+	width: auto;
+}
+.thank-page-wrap{
+	margin:40px 0;
+	min-height: 555px;
+}
